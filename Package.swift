@@ -13,8 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "PurchaseConnector",
-            url: "https://github.com/AppsFlyerSDK/appsflyer-apple-purchase-connector/releases/download/6.13.0/purchase-connector-dynamic.xcframework.zip",
-            checksum: "8bfcd0231b908862ad8b4715531d8578af4ba3537f51c946179d29bb12b50247"
+            url: "https://github.com/AppsFlyerSDK/appsflyer-apple-purchase-connector/releases/download/6.13.1/purchase-connector-dynamic.xcframework.zip",
+            checksum: "6342e83b54db7768e95c418846add16d58d7faf7c21e344364291f5014f5a7f1"
         ),
     ]
 )
